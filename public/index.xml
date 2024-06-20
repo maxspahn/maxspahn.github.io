@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HOME on Max Spahn</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in HOME on Max Spahn</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Max Spahn</copyright>
+    <lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dynamic optimization fabrics for motion generation</title>
+      <link>http://localhost:1313/publications/dynamic_fabrics/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/dynamic_fabrics/</guid>
+      <description>M. Spahn, M. Wisse, J. Alonso-Mora: &amp;ldquo;Dynamic optimization fabrics for motion generation&amp;rdquo;, IEEE Transactions on Robotics</description>
+    </item>
+    <item>
+      <title>Getting started</title>
+      <link>http://localhost:1313/post/getting-started/</link>
+      <pubDate>Fri, 03 May 2019 09:37:55 +0200</pubDate>
+      <guid>http://localhost:1313/post/getting-started/</guid>
+      <description>&lt;p&gt;Here are some details to help you getting started with this theme.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Portfolio Definition</title>
+      <link>http://localhost:1313/post/portfolio-definition/</link>
+      <pubDate>Thu, 02 May 2019 19:49:05 +0200</pubDate>
+      <guid>http://localhost:1313/post/portfolio-definition/</guid>
+      <description>&lt;p&gt;Here are some details about the portfolio settings.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/images/portfolio-example.png&#34;&#xA;    alt=&#34;Example of Portfolio page&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Example of Portfolio page&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
+      <title>Archetypes management</title>
+      <link>http://localhost:1313/post/archetypes/</link>
+      <pubDate>Thu, 02 May 2019 19:25:30 +0200</pubDate>
+      <guid>http://localhost:1313/post/archetypes/</guid>
+      <description>&lt;p&gt;The archetypes are defined in the &lt;code&gt;archetypes&lt;/code&gt; folder, for both post and portfolio.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shortcodes</title>
+      <link>http://localhost:1313/post/shortcodes/</link>
+      <pubDate>Mon, 29 Apr 2019 19:12:12 +0100</pubDate>
+      <guid>http://localhost:1313/post/shortcodes/</guid>
+      <description>&lt;p&gt;Introduction of the shortcodes defined in the personal-web theme.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Config File</title>
+      <link>http://localhost:1313/post/config-file/</link>
+      <pubDate>Sat, 20 Apr 2019 19:12:12 +0100</pubDate>
+      <guid>http://localhost:1313/post/config-file/</guid>
+      <description>&lt;p&gt;Here is the basic config file used for personal-web.&lt;/p&gt;&#xA;&lt;p&gt;You can use it as a base for your website.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pages</title>
+      <link>http://localhost:1313/post/pages/</link>
+      <pubDate>Sat, 20 Apr 2019 19:12:12 +0100</pubDate>
+      <guid>http://localhost:1313/post/pages/</guid>
+      <description>&lt;p&gt;Variables you can use in pages&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Open Graph image</title>
+      <link>http://localhost:1313/post/define-specific-og-image/</link>
+      <pubDate>Sat, 20 Apr 2019 11:14:59 +0200</pubDate>
+      <guid>http://localhost:1313/post/define-specific-og-image/</guid>
+      <description>Within any page, you can add in the FrontMatter a images array that will be used to define a specific Open Graph image.&#xA;For example, see content/_index.md page:&#xA;images: [&amp;#34;/images/sample.jpg&amp;#34;] </description>
+    </item>
+    <item>
+      <title>Max Spahn&#39;s CV</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>Ph.D. Max Spahn max.spahn@protonmail.com | linkedin.com/in/max-spahn | github.com/maxspahn | Max Spahn @ Google Scholar&#xA;Delft, Netherlands About Driven by a passion for integrating robots into human environments, my career has centered on reactive motion planning. Over the past five years in academic research, I have pioneered novel methods for online motion planning in mobile manipulation, utilizing non-linear optimization and Riemannian geometry. Committed to the open-source community, I ensure my research and software are publicly accessible.</description>
+    </item>
+  </channel>
+</rss>
